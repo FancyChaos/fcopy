@@ -1,0 +1,11 @@
+[package]
+name = "fcopy"
+version = "0.1.0"
+authors = ["Felix Scheja <Felixs.Developer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+xcb = "0.8"
+nix = "0.13.0"
+clap = "2.33.0"
+
